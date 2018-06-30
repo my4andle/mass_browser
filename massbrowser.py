@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
 Usage:
-  webbrowser.py    -h | --help
-  webbrowser.py    (--proto=<proto> --subnet=<subnet> --rport=<rport> --browser=<browser> --iface=<iface>)
+  massbrowser.py    -h | --help
+  massbrowser.py    (--proto=<proto> --subnet=<subnet> --rport=<rport> --browser=<browser> --iface=<iface>)
 
 Options:
   --subnet=<subnet>     subnet
